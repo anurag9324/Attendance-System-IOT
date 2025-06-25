@@ -14,6 +14,6 @@ Python
 OpenCV
 face_recognition
 Pandas
-ESP32 Cam 
+ESP32 CAM
 
 This system  can then be used to track attendance for a variety of  purposes, such as tracking attendance for school, work,  or events.

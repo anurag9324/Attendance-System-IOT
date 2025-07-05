@@ -1,4 +1,4 @@
-# Attendance-System-IOT
+# Attendance-System-Using-ESP 32 Cam 
 This is a Python-based automated attendance system that uses face recognition technology to mark student or employee attendance. The system captures a live video stream from a ESP 32 Cam Module (via IP webcam) it detects faces, recognizes registered individuals, and records their attendance in an Excel file. 
 
 Features:
